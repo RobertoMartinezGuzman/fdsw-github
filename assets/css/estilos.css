@@ -47,6 +47,14 @@ h6{
   text-align: end;
 }
 
+form {
+  border: solid;
+  border-radius: 10px;
+  border-color: cyan;
+  padding: 10px;
+  background-color: grey;
+}
+
 /* Hero Section */
 
 #Hero-Section {
