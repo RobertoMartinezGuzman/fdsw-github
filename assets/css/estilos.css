@@ -35,6 +35,17 @@ body {
   color: white;
 }
 
+.borde-card {
+  border: solid;
+  border-color: gray;
+  margin-bottom:10px ;
+}
+
+h6{
+  color: green;
+  font-weight: 500;
+  text-align: end;
+}
 
 /* Hero Section */
 
