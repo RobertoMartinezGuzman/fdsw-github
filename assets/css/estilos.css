@@ -10,10 +10,19 @@ body {
   font-size: 25px;
 }
 
+.contenedor-parrafo {
+  border: solid;
+  border-radius: 30px;
+  background-color: grey;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  border-color: cyan;
+}
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("/assets/img/paisajes.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
