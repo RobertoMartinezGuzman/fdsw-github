@@ -2,6 +2,14 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Estilo iconos redes sociales footer */
+.enlace {
+  color: white;
+  display: inline-block;
+  text-align: center;
+  font-size: 25px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
